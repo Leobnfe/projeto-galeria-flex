@@ -9,7 +9,7 @@ A proposta é apresentar uma galeria dinâmica que se adapta automaticamente ao 
 
 Você pode visualizar a galeria online pelo GitHub Pages:
 
-👉 **[Acessar a Galeria de Imagem](https://seuusuario.github.io/nome-do-repositorio/)**
+👉 **[Acessar a Galeria de Imagem](https://leobnfe.github.io/projeto-galeria-flex/)**
 
 > ⚠️ **Observação:** A galeria foi construída para se adaptar dinamicamente ao tamanho da tela, mas ainda pode apresentar pequenos ajustes de layout em telas muito pequenas.
 
